@@ -1,7 +1,7 @@
 [theme]
 # Personalización del tema
-primaryColor="#6C63FF"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
+primaryColor="#E3968A"
+backgroundColor="#EE6983"
+secondaryBackgroundColor="#850E35"
 textColor="#000000"
 font="sans serif"
