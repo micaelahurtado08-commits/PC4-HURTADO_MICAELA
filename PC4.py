@@ -73,6 +73,8 @@ if pagina_seleccionada == 'Inicio':
     col1.image("voluntariado.jpg", caption='En el voluntariado, dibujando', width=300)
     col1.image("amigosuno.jpg", caption='Aquí, con los que hacen la universidad más bonita', width=300)
     col1.image("amigosdos.jpg", caption='Aquí, con mi grupo de toda la vida', width=300)
+    col1.image("amigastres.jpg", caption='Con Lu y Sama', width=300)
+    col1.image("abuela.jpg", caption='Con mi abue', width=300)
 
     # col1.image("ellie.png", caption='Ellie', width=300): Esta línea está colocando una imagen en la primera columna (col1). 
     # La función image toma como primer argumento el nombre del archivo de la imagen que se desea mostrar. 
