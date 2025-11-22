@@ -201,7 +201,7 @@ else:
         st.image("histograma.png", caption='Rendimiento ofensivo y defensivo del Barcelona', width=500)
         pass
     elif grafico_seleccionado == 'Resultados del Real Madrid como local y visitante': 
-        st.markdown("<div style='text-align: justify; font-size: 20px;'>Como local, el Real Madrid gana casi todos sus partidos, con muy pocos empates o derrotas. Como visitante, su desempeño baja un poco, aunque gana la mayoría, sin embargo aparecen más empates y derrotas. </div>", unsafe_allow_html=True)
+        st.markdown("<div style='text-align: justify; font-size: 20px;'>Como local, el Real Madrid gana casi todos sus partidos y tiene muy pocos empates o derrotas. Su desempeño en casa es claramente superior y más constante. Como visitante, aunque sigue obteniendo la mayoría de victorias, su rendimiento baja un poco. En esta condición aparecen más empates y derrotas respecto a cuando juega en su estadio. </div>", unsafe_allow_html=True)
         st.image("pastel.png", caption='Resultados del Real Madrid como local y visitante', width=500)
         pass
     elif grafico_seleccionado == 'Ubicación geográfica de mis películas favoritas':
